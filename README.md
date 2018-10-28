@@ -39,3 +39,7 @@ $ python3 bezier.py
 1. Na interface que irá abrir, Clique no botão Bezier linear e em seguida crie os pontos de controle. 
 2. Após criar os pontos de controle, aperte a tecla `Enter`.
 
+### Referências
+
+- [Bézier curve - Wikipedia](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
+- [Bézier Interpolation - Medium](https://medium.com/@adrian_cooney/bezier-interpolation-13b68563313a)
