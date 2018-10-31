@@ -7,6 +7,11 @@
 
 A curva de Bézier é uma curva polinomial, expressa com a interpolação linear entre alguns pontos representativos(Pontos de controle). Por ser uma curva altamente aplicada em diversos programas(Gimp, Photoshop, Inkscape..) foi escolhida como exemplo para este trabalho.
 
+Exemplos: 
+
+![](img/quadratic.gif)
+![](img/cubic.gif)
+
 
 ### Instalação
 
@@ -38,6 +43,12 @@ $ python3 bezier.py
 
 1. Na interface que irá abrir, Clique no botão Bezier linear e em seguida crie os pontos de controle. 
 2. Após criar os pontos de controle, aperte a tecla `Enter`.
+
+### Resultados
+Com a conclusão do trabalho, segue abaixo imagens da interface gráfica executada:
+![](img/linear.png)
+![](img/quadratic.png)
+![](img/cubic.png)
 
 ### Referências
 
