@@ -2,6 +2,7 @@
 
 > Trabalho acadêmico para disciplina de Computação Gráfica pela PUC Minas.
 > Implementação de uma curva paramétrica, neste caso, Curva de Bézier. 
+> [Vídeo de Apresentação da Aplicação](https://youtu.be/_s2WFfHCG2s)
 
 ### Curva de Bézier
 
