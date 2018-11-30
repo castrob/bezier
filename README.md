@@ -46,11 +46,13 @@ $ python3 bezier.py
 
 ### Resultados
 Com a conclusão do trabalho, segue abaixo imagens da interface gráfica executada:
-![](img/linear.png)
-![](img/quadratic.png)
-![](img/cubic.png)
+![](img/teste1.png)
+![](img/teste2.png)
+![](img/teste3.png)
+![](img/teste4.png)
 
 ### Referências
 
 - [Bézier curve - Wikipedia](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
 - [Bézier Interpolation - Medium](https://medium.com/@adrian_cooney/bezier-interpolation-13b68563313a)
+- [Curvas Paramétricas - PUCRS](http://www.inf.pucrs.br/pinho/CG/Aulas/Curvas/Curvas.htm)
